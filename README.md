@@ -1,2 +1,2 @@
 # aula-git-basico
-Exemplos de comandos básico do Git
+Exemplos de comandos básicos do Git
