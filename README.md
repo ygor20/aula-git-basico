@@ -1,4 +1,4 @@
 # aula-git-basico
 Exemplos de comandos básicos do Git
-#Alteração no arquivo README
+# Alteração no arquivo README
 Alguém editou o codigo aqui
